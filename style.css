@@ -1,0 +1,22 @@
+p {
+  font-family: 'Courier New', sans-serif;
+  background-color: hsl(0, 50%, 50%)
+}
+
+.ingredients {
+  font-family: Verdana, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-family: Verdana, sans-serif;
+  color: rgb(220, 164, 164);
+  text-align: center;
+  background-color: hsl(5, 55%, 55%);
+}
+
+.recipes {
+  font-family: 'Courier New', sans-serif;
+}
+
+
