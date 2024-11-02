@@ -5,11 +5,13 @@ p {
 
 .ingredients {
   font-family: Verdana, sans-serif;
+  font-size: 20px;
   text-align: center;
 }
 
-h1 {
+.steps {
   font-family: Verdana, sans-serif;
+  font-size: 20px;
   color: rgb(220, 164, 164);
   text-align: center;
   background-color: hsl(5, 55%, 55%);
@@ -18,5 +20,3 @@ h1 {
 .recipes {
   font-family: 'Courier New', sans-serif;
 }
-
-
